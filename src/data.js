@@ -1,7 +1,7 @@
 export const trackList = [
     {
       title: 'Smash it',
-      src: "/assets/audio/smashit.mp3",
+      src: "/assets/audio/smash-it.mp3",
       author: 'Miguel Ortiz',
       liked:false
     },
